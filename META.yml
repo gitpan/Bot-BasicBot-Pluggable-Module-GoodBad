@@ -1,5 +1,5 @@
 ---
-abstract: ~
+abstract: 'Tracks Good/Bad for people'
 author: ~
 build_requires:
   Test::More: 0
@@ -16,4 +16,4 @@ no_index:
     - t
 requires:
   Bot::BasicBot::Pluggable: 0
-version: 0.01_01
+version: 0.02
