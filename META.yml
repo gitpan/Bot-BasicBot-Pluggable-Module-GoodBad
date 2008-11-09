@@ -16,4 +16,4 @@ no_index:
     - t
 requires:
   Bot::BasicBot::Pluggable: 0
-version: 0.02
+version: 0.04
